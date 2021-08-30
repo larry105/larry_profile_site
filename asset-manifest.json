@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/larry_profile_site/static/css/main.e5ef3835.chunk.css",
+    "main.js": "/larry_profile_site/static/js/main.7f7f2c7f.chunk.js",
+    "main.js.map": "/larry_profile_site/static/js/main.7f7f2c7f.chunk.js.map",
+    "runtime-main.js": "/larry_profile_site/static/js/runtime-main.8c634896.js",
+    "runtime-main.js.map": "/larry_profile_site/static/js/runtime-main.8c634896.js.map",
+    "static/js/2.5e0546be.chunk.js": "/larry_profile_site/static/js/2.5e0546be.chunk.js",
+    "static/js/2.5e0546be.chunk.js.map": "/larry_profile_site/static/js/2.5e0546be.chunk.js.map",
+    "index.html": "/larry_profile_site/index.html",
+    "static/css/main.e5ef3835.chunk.css.map": "/larry_profile_site/static/css/main.e5ef3835.chunk.css.map",
+    "static/js/2.5e0546be.chunk.js.LICENSE.txt": "/larry_profile_site/static/js/2.5e0546be.chunk.js.LICENSE.txt",
+    "static/media/larryimg.1d2e16df.jpg": "/larry_profile_site/static/media/larryimg.1d2e16df.jpg",
+    "static/media/resume.c925aab2.pdf": "/larry_profile_site/static/media/resume.c925aab2.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c634896.js",
+    "static/js/2.5e0546be.chunk.js",
+    "static/css/main.e5ef3835.chunk.css",
+    "static/js/main.7f7f2c7f.chunk.js"
+  ]
+}
