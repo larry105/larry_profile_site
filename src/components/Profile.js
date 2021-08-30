@@ -33,7 +33,7 @@ const Profile = () => {
                 <div>
                 <h2>I am</h2>
                 <ul>
-                    <li>Energetic</li>
+                    <li>Energetic and motivated</li>
                     <li>Self taught</li>
                     <li>A self starter</li>
                     <li>A team player</li>

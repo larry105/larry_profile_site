@@ -1,6 +1,6 @@
 {
-  "homepage":"http://larry105.github.io/my-profile-site",
-  "name": "profile-site",
+  "homepage":"http://larry105.github.io/profile_site",
+  "name": "profile_site",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
